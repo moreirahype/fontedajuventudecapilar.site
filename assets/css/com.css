@@ -307,7 +307,7 @@ tr {
       text-shadow: #000000 0px 1px 0px;
     }
 
-.a-checkout {
+.a-pitch {
       text-decoration: none;
       -webkit-font-smoothing: antialiased;
       margin: 0;
@@ -328,7 +328,7 @@ tr {
       box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.5); 
       text-decoration: none!important;
     }
-    .span-checkout {
+    .span-pitch {
       text-decoration: none;
       -webkit-font-smoothing: antialiased; 
       text-align: center;
@@ -348,7 +348,7 @@ tr {
       text-shadow: #000000 0px 1px 0px;
       text-decoration: none;
     }
-    .span-checkout2 {
+    .span-pitch2 {
       -webkit-font-smoothing: antialiased; 
       text-align: center;
       padding: 0; border: 0;
