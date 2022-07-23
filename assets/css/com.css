@@ -309,22 +309,22 @@ tr {
 
     .myButton {
       box-shadow: 0px 10px 14px -7px #204712;
-      background:linear-gradient(to bottom, #50e82a 5%, #63ba30 100%);
+      background:linear-gradient(to bottom, #50e82a 5%, #5eb528 100%);
       background-color:#50e82a;
       border-radius:8px;
       display:inline-block;
       cursor:pointer;
       color:#ffffff;
       font-family:Arial;
-      font-size:20px;
+      font-size:17px;
       font-weight:bold;
       padding:15px 20px;
       text-decoration:none;
-      text-shadow:0px 1px 0px #307326;
+      text-shadow:0px 1px 0px #000000;
     }
     .myButton:hover {
-      background:linear-gradient(to bottom, #63ba30 5%, #50e82a 100%);
-      background-color:#63ba30;
+      background:linear-gradient(to bottom, #5eb528 5%, #50e82a 100%);
+      background-color:#5eb528;
     }
     .myButton:active {
       position:relative;
