@@ -322,9 +322,9 @@ tr {
       border-style: solid; 
       width: 100%; padding-left: 0!important; padding-right: 0!important; 
       margin-bottom: 10px; 
-      padding: 22px 44px; border-color: #7a064e; border-width: 0px; 
+      padding: 22px 44px; border-color: #009420; border-width: 0px; 
       border-radius: 6px; 
-      background: linear-gradient(to bottom, #1ad301 0%, #007219 100%); 
+      background: linear-gradient(to bottom, #f200ca 0%, #ef008b 100%);  
       box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.5); 
       text-decoration: none!important;
     }
