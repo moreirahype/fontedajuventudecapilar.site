@@ -307,26 +307,61 @@ tr {
       text-shadow: #000000 0px 1px 0px;
     }
 
-    .myButton {
-      box-shadow: 0px 10px 14px -7px #204712;
-      background:linear-gradient(to bottom, #50e82a 5%, #5eb528 100%);
-      background-color:#50e82a;
-      border-radius:8px;
-      display:inline-block;
-      cursor:pointer;
-      color:#ffffff;
-      font-family:Arial;
-      font-size:17px;
-      font-weight:bold;
-      padding:15px 20px;
-      text-decoration:none;
-      text-shadow:0px 1px 0px #000000;
+    .a-pitch {
+      text-decoration: none;
+      -webkit-font-smoothing: antialiased;
+      margin: 0;
+      border: 0; 
+      font: inherit; 
+      vertical-align: baseline;
+      color: #2e82bc; 
+      outline: 0; 
+      line-height: 1; 
+      text-align: center; 
+      position:relative!important; display: inline-block!important;
+      border-style: solid; 
+      width: 100%; padding-left: 0!important; padding-right: 0!important; 
+      margin-bottom: 10px; 
+      padding: 22px 44px; border-color: #7a064e; border-width: 0px; 
+      border-radius: 6px; 
+      background: linear-gradient(to bottom, #1ad301 0%, #007219 100%); 
+      box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.5); 
+      text-decoration: none!important;
     }
-    .myButton:hover {
-      background:linear-gradient(to bottom, #5eb528 5%, #50e82a 100%);
-      background-color:#5eb528;
+    .span-pitch {
+      text-decoration: none;
+      -webkit-font-smoothing: antialiased; 
+      text-align: center;
+      margin: 0; 
+      border: 0; 
+      font: inherit;
+      vertical-align: baseline;
+      display: block; 
+      position: relative; 
+      z-index: 1; 
+      padding: 0 15px; 
+      white-space: normal; 
+      font-size: 25px;
+      color: #ffffff; 
+      font-family: Oswald; 
+      font-weight: bold; 
+      text-shadow: #000000 0px 1px 0px;
+      text-decoration: none;
     }
-    .myButton:active {
-      position:relative;
-      top:1px;
+    .span-pitch2 {
+      -webkit-font-smoothing: antialiased; 
+      text-align: center;
+      padding: 0; border: 0;
+      font: inherit; 
+      vertical-align: baseline; 
+      display: block; 
+      position: relative;
+      z-index: 1; 
+      margin: .2em 0 -.5em; 
+      font-size: 15px; 
+      color: #f5e051; 
+      font-family: Cabin; 
+      font-weight: bold; 
+      font-style: italic;
+      text-shadow: #000000 0px 1px 0px;
     }
